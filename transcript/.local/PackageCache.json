@@ -69,7 +69,7 @@
         "C:\\Users\\scott\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
         "C:\\Users\\scott\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.activities.runtimegovernance/1.1.3\\lib/net461/UiPath.Activities.RuntimeGovernance.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.connectionclient/1.0.0-20210921.1\\lib/net461/ConnectionClient.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.connectionclient/1.1.2\\lib/net461/ConnectionClient.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.mail.activities/1.12.3\\lib/net461/Interop.Domino.UiPath.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.mail.activities/1.12.3\\lib/net461/Microsoft.Office.Interop.Outlook.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.mail.activities/1.12.3\\lib/net461/Microsoft.Office.Interop.Word.dll",
@@ -79,10 +79,29 @@
         "C:\\Users\\scott\\.nuget\\packages\\uipath.mail.activities/1.12.3\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.mail.activities/1.12.3\\lib/net461/UiPath.Mail.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.mail.activities/1.12.3\\lib/net461/UiPath.MainSessionServer.Shared.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform/21.10.0\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform/21.12.0-preview\\lib/net461/UiPath.Platform.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.mail.activities\\1.12.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.PDF.Activities",
+        "Version": "3.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\bitmiracle.docotic.pdf/7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.ocr.contracts/2.9.1\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities/3.4.1\\lib/net461/UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities/3.4.1\\lib/net461/UiPath.PDF.Activities.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities/3.4.1\\lib/net461/UiPath.PDF.Telemetry.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities/3.4.1\\lib/net461/UiPath.PDF.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1"
     },
     {
       "Package": {
@@ -100,7 +119,7 @@
         "C:\\Users\\scott\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.Core.dll",
         "C:\\Users\\scott\\.nuget\\packages\\microsoft.aspnetcore.signalr.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll",
         "C:\\Users\\scott\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/1.1.1\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/5.0.0\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
         "C:\\Users\\scott\\.nuget\\packages\\microsoft.codeanalysis.common/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.dll",
         "C:\\Users\\scott\\.nuget\\packages\\microsoft.codeanalysis.csharp/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.dll",
         "C:\\Users\\scott\\.nuget\\packages\\microsoft.codeanalysis.visualbasic/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.dll",
@@ -133,7 +152,7 @@
         "C:\\Users\\scott\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
         "C:\\Users\\scott\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
         "C:\\Users\\scott\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform/21.10.0\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform/21.12.0-preview\\lib/net461/UiPath.Platform.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.system.activities/21.10.3\\lib/net461/UiPath.OrchestratorClient.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.system.activities/21.10.3\\lib/net461/UiPath.System.Activities.Design.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.system.activities/21.10.3\\lib/net461/UiPath.System.Activities.dll",
@@ -158,7 +177,7 @@
         "C:\\Users\\scott\\.nuget\\packages\\uipath.ocr.activities/3.3.2\\lib/net461/UiPath.OCR.Activities.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.ocr.activities/3.3.2\\lib/net461/UiPath.OCR.Core.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.ocr.contracts/2.9.1\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform/21.10.0\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform/21.12.0-preview\\lib/net461/UiPath.Platform.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.uiautomation.activities/21.10.4\\lib/net461/UiPath.CV.Activities.Design.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.uiautomation.activities/21.10.4\\lib/net461/UiPath.CV.Activities.dll",
@@ -181,22 +200,56 @@
     },
     {
       "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.4.1"
+        "Id": "UiPath.GSuite.Activities",
+        "Version": "1.14.1-preview"
       },
       "Assemblies": [
-        "C:\\Users\\scott\\.nuget\\packages\\bitmiracle.docotic.pdf/7.5.11645\\lib/net46/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.docs.v1/1.43.0.1869\\lib/net45/Google.Apis.Docs.v1.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.drive.v3/1.43.0.1863\\lib/net45/Google.Apis.Drive.v3.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.script.v1/1.43.0.1871\\lib/net45/Google.Apis.Script.v1.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.sheets.v4/1.43.0.1867\\lib/net45/Google.Apis.Sheets.v4.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/5.0.0\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\mimekit/2.10.0\\lib/net46/MimeKit.dll",
         "C:\\Users\\scott\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nito.asyncex.context/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Context.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nito.asyncex.coordination/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Coordination.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nito.asyncex.interop.waithandles/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Interop.WaitHandles.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nito.asyncex.oop/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Oop.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nito.asyncex.tasks/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Tasks.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nito.cancellation/1.1.0\\lib/netstandard2.0/Nito.Cancellation.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nito.collections.deque/1.1.0\\lib/netstandard2.0/Nito.Collections.Deque.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nito.disposables/2.2.0\\lib/net461/Nito.Disposables.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\nodatime/2.4.7\\lib/net45/NodaTime.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\portable.bouncycastle/1.8.8\\lib/net40/BouncyCastle.Crypto.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.collections.immutable/5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.linq.async/5.0.0\\lib/net461/System.Linq.Async.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.linq.async.queryable/5.0.0\\lib/net461/System.Linq.Async.Queryable.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
         "C:\\Users\\scott\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
         "C:\\Users\\scott\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.ocr.contracts/2.9.1\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities/3.4.1\\lib/net461/UiPath.PDF.Activities.Design.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities/3.4.1\\lib/net461/UiPath.PDF.Activities.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities/3.4.1\\lib/net461/UiPath.PDF.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities/3.4.1\\lib/net461/UiPath.PDF.Telemetry.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.activities.runtimegovernance/1.1.3\\lib/net461/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.connectionclient/1.1.2\\lib/net461/ConnectionClient.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities/1.14.1-preview\\lib/net461/UiPath.GSuite.Activities.Design.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities/1.14.1-preview\\lib/net461/UiPath.GSuite.Activities.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities/1.14.1-preview\\lib/net461/UiPath.GSuite.Activities.Package.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities/1.14.1-preview\\lib/net461/UiPath.GSuite.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities/1.14.1-preview\\lib/net461/UiPath.Orchestrator.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform/21.12.0-preview\\lib/net461/UiPath.Platform.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1"
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities\\1.14.1-preview"
     }
   ],
   "Conflicts": [],
@@ -287,6 +340,34 @@
         }
       ]
     },
+    "Google.Apis.Docs.v1": {
+      "Id": "Google.Apis.Docs.v1",
+      "Version": "1.43.0.1869",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.43.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.43.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Drive.v3": {
+      "Id": "Google.Apis.Drive.v3",
+      "Version": "1.43.0.1863",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.43.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.43.0, )"
+        }
+      ]
+    },
     "Google.Apis.Gmail.v1": {
       "Id": "Google.Apis.Gmail.v1",
       "Version": "1.43.0.1859",
@@ -304,6 +385,34 @@
     "Google.Apis.PeopleService.v1": {
       "Id": "Google.Apis.PeopleService.v1",
       "Version": "1.43.0.1876",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.43.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.43.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Script.v1": {
+      "Id": "Google.Apis.Script.v1",
+      "Version": "1.43.0.1871",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.43.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.43.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Sheets.v4": {
+      "Id": "Google.Apis.Sheets.v4",
+      "Version": "1.43.0.1867",
       "Dependencies": [
         {
           "Item1": "Google.Apis",
@@ -473,7 +582,7 @@
     },
     "Microsoft.Bcl.AsyncInterfaces": {
       "Id": "Microsoft.Bcl.AsyncInterfaces",
-      "Version": "1.1.1",
+      "Version": "5.0.0",
       "Dependencies": [
         {
           "Item1": "System.Threading.Tasks.Extensions",
@@ -857,6 +966,11 @@
         }
       ]
     },
+    "NodaTime": {
+      "Id": "NodaTime",
+      "Version": "2.4.7",
+      "Dependencies": []
+    },
     "NPOI": {
       "Id": "NPOI",
       "Version": "2.4.1",
@@ -922,6 +1036,26 @@
         {
           "Item1": "System.Threading.Tasks.Extensions",
           "Item2": "[4.5.2, )"
+        }
+      ]
+    },
+    "System.Linq.Async": {
+      "Id": "System.Linq.Async",
+      "Version": "5.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Bcl.AsyncInterfaces",
+          "Item2": "[1.1.1, )"
+        }
+      ]
+    },
+    "System.Linq.Async.Queryable": {
+      "Id": "System.Linq.Async.Queryable",
+      "Version": "5.0.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Linq.Async",
+          "Item2": "[5.0.0, )"
         }
       ]
     },
@@ -1093,7 +1227,7 @@
     },
     "UiPath.ConnectionClient": {
       "Id": "UiPath.ConnectionClient",
-      "Version": "1.0.0-20210921.1",
+      "Version": "1.1.2",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
@@ -1136,6 +1270,72 @@
         {
           "Item1": "NPOI",
           "Item2": "[2.4.1, )"
+        }
+      ]
+    },
+    "UiPath.GSuite.Activities": {
+      "Id": "UiPath.GSuite.Activities",
+      "Version": "1.14.1-preview",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis.Calendar.v3",
+          "Item2": "[1.43.0.1872, )"
+        },
+        {
+          "Item1": "Google.Apis.Docs.v1",
+          "Item2": "[1.43.0.1869, )"
+        },
+        {
+          "Item1": "Google.Apis.Drive.v3",
+          "Item2": "[1.43.0.1863, )"
+        },
+        {
+          "Item1": "Google.Apis.Gmail.v1",
+          "Item2": "[1.43.0.1859, )"
+        },
+        {
+          "Item1": "Google.Apis.PeopleService.V1",
+          "Item2": "[1.43.0.1876, )"
+        },
+        {
+          "Item1": "Google.Apis.Script.v1",
+          "Item2": "[1.43.0.1871, )"
+        },
+        {
+          "Item1": "Google.Apis.Sheets.v4",
+          "Item2": "[1.43.0.1867, )"
+        },
+        {
+          "Item1": "Microsoft.Bcl.AsyncInterfaces",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "MimeKit",
+          "Item2": "[2.10.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "NodaTime",
+          "Item2": "[2.4.7, )"
+        },
+        {
+          "Item1": "System.Linq.Async.Queryable",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "UiPath.Activities.RuntimeGovernance",
+          "Item2": "[1.1.3, )"
+        },
+        {
+          "Item1": "UiPath.ConnectionClient",
+          "Item2": "[1.1.2, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[21.12.0-preview, )"
         }
       ]
     },
@@ -1237,7 +1437,7 @@
     },
     "UiPath.Platform": {
       "Id": "UiPath.Platform",
-      "Version": "21.10.0",
+      "Version": "21.12.0-preview",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
@@ -1475,6 +1675,26 @@
     },
     {
       "Package": {
+        "Id": "Google.Apis.Docs.v1",
+        "Version": "1.43.0.1869"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.docs.v1\\1.43.0.1869\\lib\\net45\\Google.Apis.Docs.v1.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\google.apis.docs.v1\\1.43.0.1869"
+    },
+    {
+      "Package": {
+        "Id": "Google.Apis.Drive.v3",
+        "Version": "1.43.0.1863"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.drive.v3\\1.43.0.1863\\lib\\net45\\Google.Apis.Drive.v3.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\google.apis.drive.v3\\1.43.0.1863"
+    },
+    {
+      "Package": {
         "Id": "Google.Apis.Gmail.v1",
         "Version": "1.43.0.1859"
       },
@@ -1492,6 +1712,26 @@
         "C:\\Users\\scott\\.nuget\\packages\\google.apis.peopleservice.v1\\1.43.0.1876\\lib\\net45\\Google.Apis.PeopleService.v1.dll"
       ],
       "Path": "C:\\Users\\scott\\.nuget\\packages\\google.apis.peopleservice.v1\\1.43.0.1876"
+    },
+    {
+      "Package": {
+        "Id": "Google.Apis.Script.v1",
+        "Version": "1.43.0.1871"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.script.v1\\1.43.0.1871\\lib\\net45\\Google.Apis.Script.v1.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\google.apis.script.v1\\1.43.0.1871"
+    },
+    {
+      "Package": {
+        "Id": "Google.Apis.Sheets.v4",
+        "Version": "1.43.0.1867"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\google.apis.sheets.v4\\1.43.0.1867\\lib\\net45\\Google.Apis.Sheets.v4.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\google.apis.sheets.v4\\1.43.0.1867"
     },
     {
       "Package": {
@@ -1596,12 +1836,12 @@
     {
       "Package": {
         "Id": "Microsoft.Bcl.AsyncInterfaces",
-        "Version": "1.1.1"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\scott\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib\\net461\\Microsoft.Bcl.AsyncInterfaces.dll"
+        "C:\\Users\\scott\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\lib\\net461\\Microsoft.Bcl.AsyncInterfaces.dll"
       ],
-      "Path": "C:\\Users\\scott\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1"
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0"
     },
     {
       "Package": {
@@ -1942,6 +2182,16 @@
     },
     {
       "Package": {
+        "Id": "NodaTime",
+        "Version": "2.4.7"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\nodatime\\2.4.7\\lib\\net45\\NodaTime.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\nodatime\\2.4.7"
+    },
+    {
+      "Package": {
         "Id": "NPOI",
         "Version": "2.4.1"
       },
@@ -2032,6 +2282,26 @@
         "C:\\Users\\scott\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib\\netstandard2.0\\System.IO.Pipelines.dll"
       ],
       "Path": "C:\\Users\\scott\\.nuget\\packages\\system.io.pipelines\\4.7.1"
+    },
+    {
+      "Package": {
+        "Id": "System.Linq.Async",
+        "Version": "5.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\system.linq.async\\5.0.0\\lib\\net461\\System.Linq.Async.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\system.linq.async\\5.0.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Linq.Async.Queryable",
+        "Version": "5.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\system.linq.async.queryable\\5.0.0\\lib\\net461\\System.Linq.Async.Queryable.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\system.linq.async.queryable\\5.0.0"
     },
     {
       "Package": {
@@ -2206,12 +2476,12 @@
     {
       "Package": {
         "Id": "UiPath.ConnectionClient",
-        "Version": "1.0.0-20210921.1"
+        "Version": "1.1.2"
       },
       "Assemblies": [
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.connectionclient\\1.0.0-20210921.1\\lib\\net461\\ConnectionClient.dll"
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.connectionclient\\1.1.2\\lib\\net461\\ConnectionClient.dll"
       ],
-      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.connectionclient\\1.0.0-20210921.1"
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.connectionclient\\1.1.2"
     },
     {
       "Package": {
@@ -2228,6 +2498,20 @@
         "C:\\Users\\scott\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.excel.activities\\2.11.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.GSuite.Activities",
+        "Version": "1.14.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities\\1.14.1-preview\\lib\\net461\\UiPath.GSuite.Activities.Design.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities\\1.14.1-preview\\lib\\net461\\UiPath.GSuite.Activities.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities\\1.14.1-preview\\lib\\net461\\UiPath.GSuite.Activities.Package.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities\\1.14.1-preview\\lib\\net461\\UiPath.GSuite.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities\\1.14.1-preview\\lib\\net461\\UiPath.Orchestrator.dll"
+      ],
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.gsuite.activities\\1.14.1-preview"
     },
     {
       "Package": {
@@ -2287,20 +2571,20 @@
       "Assemblies": [
         "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1\\lib\\net461\\UiPath.PDF.Activities.Design.dll",
         "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1\\lib\\net461\\UiPath.PDF.Activities.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1\\lib\\net461\\UiPath.PDF.dll",
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1\\lib\\net461\\UiPath.PDF.Telemetry.dll"
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1\\lib\\net461\\UiPath.PDF.Telemetry.dll",
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1\\lib\\net461\\UiPath.PDF.dll"
       ],
       "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1"
     },
     {
       "Package": {
         "Id": "UiPath.Platform",
-        "Version": "21.10.0"
+        "Version": "21.12.0-preview"
       },
       "Assemblies": [
-        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform\\21.10.0\\lib\\net461\\UiPath.Platform.dll"
+        "C:\\Users\\scott\\.nuget\\packages\\uipath.platform\\21.12.0-preview\\lib\\net461\\UiPath.Platform.dll"
       ],
-      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.platform\\21.10.0"
+      "Path": "C:\\Users\\scott\\.nuget\\packages\\uipath.platform\\21.12.0-preview"
     },
     {
       "Package": {
