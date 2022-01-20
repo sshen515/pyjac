@@ -1,0 +1,39 @@
+﻿ANT253H1  Language & Society                       0.50  75  B      B
+AST101H1  Sun & its Neighbours                     0.50  93  A+     B
+CSC108H1  Intro to Comp Prog                       0.50  91  A+     B
+MAT135H1  Calculus I (A)                           0.50  80  A-     C+
+CSC148H1  Intro to Comp Sci                        0.50  79  B+     B
+CSC165H1  Math Expr&Rsng for Cs                    0.50  72  B-     B-
+MAT136H1  Calculus I (B)                           0.50  72  B-     C+
+----------
+CSC207H5  Software Design                          0.50  86  A      C
+CSC236H5  Introduction to the Theory of            0.50  85  A      C+
+MAT223H5  Linear Algebra I                         0.50  70  B-     C
+PHL245H5  Modern Symbolic Logic                    0.50  81  A-     B-
+STA256H5  Probability and Statistics I             0.50  63  C      D+
+----------
+CSC209H5  Software Tools and Systems Programming   0.50  83  A-     C+
+CSC258H5  Computer Organization                    0.50  80  A-     C+
+MAT232H5  Calculus of Several Variables            0.50  80  A-     C
+----------
+CSC324H5  Principles of Programming Languages      0.50  87  A      B-
+CSC333H5  Forensic Computing                       0.50  91  A+     A-
+CSC343H1  Intro to Databases                       0.50  83  A-     B
+MAT382H5  Mathematics for Teachers                 0.50  87  A      B
+----------
+CSC318H1  Interact Comp Media                      0.50  91  A+     B+
+CSC321H5  Introduction to Neural Networks and      0.50  80  A-     B+
+----------
+----------
+CSC369H5  Operating Systems                        0.50  85  A      B
+CSC490H5  Capstone Design Course                   0.50  85  A      A-
+----------
+CHM209H1  Science of the Modern Kitchen            0.50  95  A+     B+
+CSC309H1  Prog on the Web                          0.50  87  A      B
+CSC358H5  Principles of Computer Networks          0.50  84  A-     B
+CSC373H1  Algo Design & Analysis                   0.50  73  B      C+
+----------
+CSC347H5  Introduction to Information Security     0.50  91  A+     B+
+CSC492H5  Computer Science Implementation Project  0.50  95  A+     A
+PHL239H5  Critical Reasoning                       0.50  86  A      C+
+----------
