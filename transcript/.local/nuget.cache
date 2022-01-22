@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u9OE3UPWKCx+/Z74Hda3LH4KZCA5wpvv5OajZHwYbpOhXo5DBXDs38aZLBfXZ7dywN3FM7W0no44UUMrWxzYWA==",
+  "dgSpecHash": "u9ug/psQWfCvJYY/oAMV/gfqb8KkWvWNWXuR4q4tRBKyBRGyu2PoxrDxPIWuhZZiWp7Xx++GlODxf4guR5XITQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\scott\\Documents\\pyjac\\transcript\\.local\\",
   "expectedPackageFiles": [
@@ -101,6 +101,7 @@
     "C:\\Users\\scott\\.nuget\\packages\\uipath.ocr.contracts\\2.9.1\\uipath.ocr.contracts.2.9.1.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\uipath.pdf.activities\\3.4.1\\uipath.pdf.activities.3.4.1.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\uipath.platform\\21.12.0-preview\\uipath.platform.21.12.0-preview.nupkg.sha512",
+    "C:\\Users\\scott\\.nuget\\packages\\uipath.python.activities\\1.4.1\\uipath.python.activities.1.4.1.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\uipath.system.activities\\21.10.3\\uipath.system.activities.21.10.3.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.4\\uipath.uiautomation.activities.21.10.4.nupkg.sha512",
